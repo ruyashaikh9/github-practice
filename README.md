@@ -1,2 +1,3 @@
 # github-practice
-this is my first repositery 
+this is my first repository 
+Author- Ruya shaikh
